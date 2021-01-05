@@ -9,6 +9,6 @@ You can also run the command line version with no visual elements with 'python3 
 
 If the pictures aren't loading make sure the directory referenced in chess_gui.py is correct.
 
-Most functions and logic can be found the chess.py file, but there are a few functions in chess_gui.py that need to interact directly with the GUI.\
+Most functions and logic can be found the chess.py file, but there are a few functions in chess_gui.py that need to interact directly with the GUI.
 
 Contact me with any questions at ryanmcguire@berkeley.edu
