@@ -5,7 +5,7 @@ In order for this to work on your computer you must have python3 and the pillow 
 You can install pillow by running 'pip install pillow' in the terminal.
 
 To run the normal version with GUI navigate to this folder in the terminal and run 'python3 chess_gui.py'
-You can also run the command line version with no visual elements with 'python3 chess.py'
+You can also run the command line version with no visual elements with 'python3 -i chess.py' followed by 'play_cl()'
 
 If the pictures aren't loading make sure the directory referenced in chess_gui.py is correct.
 
