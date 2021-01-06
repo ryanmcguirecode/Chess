@@ -466,4 +466,3 @@ def play_cl():
     else:
         cg, backup = 0, 0
         play_cl()
-play_cl()
